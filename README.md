@@ -41,6 +41,7 @@ Please add your name under the letter in which your first name starts with.
 
 
 ### M
+- Maegen Simmonds
 
 - Matthias  Bussonnier
 

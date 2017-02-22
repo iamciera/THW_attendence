@@ -33,6 +33,7 @@ Please add your name under the letter in which your first name starts with.
 
 ### J
 
+=) Javier Vazquez (=
 
 ### K
 

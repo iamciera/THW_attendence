@@ -10,7 +10,7 @@ Please add your name under the letter in which your first name starts with.
 
 ### C
 
-- Ciera Martinez
+- Ciera C. Martinez
 
 
 ### D
@@ -33,6 +33,10 @@ Please add your name under the letter in which your first name starts with.
 
 ### J
 
+- Jeff Teeters
+
+=) Javier Vazquez (=
+
 
 ### K
 
@@ -43,7 +47,7 @@ Please add your name under the letter in which your first name starts with.
 ### M
 
 - Matthias  Bussonnier
-
+- Mitch Negus
 
 ### N
 
@@ -63,6 +67,9 @@ Please add your name under the letter in which your first name starts with.
 ### S
 
 - Clark Kent
+
+- Stuart Geiger
+
 
 ### T
 

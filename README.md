@@ -65,7 +65,11 @@ Please add your name under the letter in which your first name starts with.
 
 
 ### S
+
+- Clark Kent
+
 - Stuart Geiger
+
 
 ### T
 

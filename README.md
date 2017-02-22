@@ -33,7 +33,10 @@ Please add your name under the letter in which your first name starts with.
 
 ### J
 
+- Jeff Teeters
+
 =) Javier Vazquez (=
+
 
 ### K
 

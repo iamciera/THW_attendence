@@ -44,7 +44,7 @@ Please add your name under the letter in which your first name starts with.
 ### M
 
 - Matthias  Bussonnier
-
+- Mitch Negus
 
 ### N
 

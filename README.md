@@ -11,7 +11,7 @@ Please add your name under the letter in which your first name starts with.
 ### C
 
 - Ciera Martinez
-
+- Caroline Cypranowska
 
 ### D
 
